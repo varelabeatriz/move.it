@@ -17,6 +17,7 @@ $ yarn install
 $ yarn dev
 
 ```
+Agora é só acessar localhost:3000 no seu navegador!
 
 ### 💻 Technologias
 
