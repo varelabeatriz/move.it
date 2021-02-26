@@ -14,7 +14,7 @@ $ git clone https://github.com/varelabeatriz/move.it
 $ yarn install
 
 #rode o app
-$ yarn start
+$ yarn dev
 
 ```
 
